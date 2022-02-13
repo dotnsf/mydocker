@@ -1,0 +1,10 @@
+version: '3'
+services:
+  node14:
+    restart: always
+    build: .
+    container_name: 'node14'
+    working_dir: '/root/'
+    tty: true
+    volumes:
+      - ./opt:/root/opt
