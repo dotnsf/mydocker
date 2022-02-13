@@ -28,14 +28,14 @@ Docker で Node.js 実行環境を作るサンプル
 - `# node opt/sample.js`
 
 
-## How to delete container
-
-- `$ docker compose down`
-
-
 ## How to exit from container
 
 - `# exit`
+
+
+## How to delete container
+
+- `$ docker compose down`
 
 
 ## How to restart container
