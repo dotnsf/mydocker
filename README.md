@@ -37,8 +37,6 @@ Docker で Node.js 実行環境を作るサンプル
 
 - `# exit`
 
-- `# node opt/sample.js`
-
 
 ## How to restart container
 
